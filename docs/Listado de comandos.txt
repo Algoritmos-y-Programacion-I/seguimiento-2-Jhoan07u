@@ -27,4 +27,4 @@ Recuerda que para cargar archivos en el repositorio debemos seguir los siguiente
     git commit -m "Mensaje descriptivo de lo que se esta cargando"
 
     4-Hacer push (Se envía o sube el paquete de archivos al servidor):
-    git push 
+    git push d

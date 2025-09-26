@@ -1,10 +1,27 @@
 package model;
+import cuenta;
 
 public class Cliente {
+    public int edad;
+    public String nombre;
+    public int cedula;
+
+    
+    public agregarCuentaCliente(String nombreBamco, double saldoActual, TipoCuenta TipoCuenta){
+        this.nombreBamco=nombreBamco;
+        this.saldoActual=saldoActual;
+        this.TipoCuenta = TipoCuenta;
+    
+    }
+
+    
+
+
     
 
 
     public Cliente(){
+
 
 
     }
@@ -18,5 +35,6 @@ public class Cliente {
     public void getCuentasList() {
 
     }
+
 
 }

@@ -84,7 +84,7 @@ public class BancoIcesiUI {
      * Agregue la logica necesaria (instrucciones) para satisfacer los requerimientos
      */
 
-    public void registrarCliente() {
+    public void registrarCliente() { 
 
     }
 
